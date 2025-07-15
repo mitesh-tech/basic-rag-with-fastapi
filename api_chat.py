@@ -7,7 +7,7 @@ import requests
 import uuid
 
 # --------- Configuration ---------
-GEMINI_API_KEY = "AIzaSyA0lcmW-8KLp3u5k0YPlBk12qnpLVCDtZo"
+GEMINI_API_KEY = "your_key"
 QDRANT_COLLECTION = "rag_docs"
 
 # --------- FastAPI Init ---------
