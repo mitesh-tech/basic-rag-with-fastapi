@@ -1,0 +1,7 @@
+qdrant-client
+langchain
+langchain-community
+google-generativeai
+python-dotenv
+tiktoken
+requests
